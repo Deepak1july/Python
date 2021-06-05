@@ -1,0 +1,26 @@
+<food_menu>
+   <food>
+       <name>Burger</name>
+       <price>$5.95</price>
+       <size>Regular</size>
+       <calories>650</calories>
+   </food>
+   <food>
+       <name>McPuff</name>
+       <price>$7.95</price>
+       <size>Regular</size>
+       <calories>900</calories> 
+   </food>
+   <food>
+       <name>Fries</name>
+       <price>$8.95</price>
+       <size>Medium</size>
+       <calories>900</calories>
+   </food>
+   <food>
+       <name>Coke</name>
+       <price>$4.50</price>
+       <size>Large</size>
+       <calories>600</calories>
+   </food>
+</food_menu>
